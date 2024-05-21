@@ -1,6 +1,6 @@
 # Libreria_BaseDeDatos
 
-Este proyecto cuanta con un achivo base llamado "CRUD_LiBrErIa" donde se encuntran todo los menus que controlan todo el sistema del proyecto.
+Este programa cuanta con un achivo base llamado "CRUD_LiBrErIa" donde se encuntran todo los menus que controlan todo el sistema del proyecto.
 El proyecto esta divido por archivos, en los que podemos encontrar las funciones de cada menu que se encuntran en el archivo base, tambien archivos
 donde se crean las tablas de información del proyecto que van conectadas con la base de datos.
 la base de datos tiene la capacidad de guardar permanentemente la informacion que en ella se registre.
